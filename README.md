@@ -7,3 +7,6 @@ This inagural month features a "maze" theme.  Submit a brief proposal by Friday,
 
 ####Andy
 I propose to build a maze game where a ping pong ball has to be paddled through a procedurally-generated maze.  At each corner, the player must hit an arrow key to strike the ball in a direction.  Or maybe the player has to place ping pong players and/or paddles throughout the maze, and then use them to hit the ball.
+
+####Michael
+It's probably going to be something related to tower defense.
