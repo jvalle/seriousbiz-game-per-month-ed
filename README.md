@@ -14,5 +14,5 @@ What if you were trying to guide a ball in a 2D maze, but gravity was involved? 
 ####Jason
 Mouse + cheese &trade;
 
-####Franco
+####Franco&trade;
 A Tron-bike like game (single player). The moto will steer in arcs and not with the classic 90deg pattern. Also walls will randomly appear from time to time.
