@@ -12,7 +12,7 @@ I propose to build a maze game where a ping pong ball has to be paddled through 
 What if you were trying to guide a ball in a 2D maze, but gravity was involved? And maybe the ball is bouncy? And maybe you can rotate the board (to change the direction that gavity is pulling the ball)? I make no promises that this game will be any fun.
 
 ####Jason
-Mouse + cheese &trade;
+First person mouse seeking cheese.  Somehow you'll have to use the power of your just-visible mouse nose to successfully guide you through the maze to the cheese.
 
 ####Franco&trade;
 A Tron-bike like game (single player). The moto will steer in arcs and not with the classic 90deg pattern. Also walls will randomly appear from time to time.
